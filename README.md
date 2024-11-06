@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I don't know what I do write there
+Most of ripos in this profile are homeworks in different courses
+
 <!--
 **AndreyPankov89/AndreyPankov89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
